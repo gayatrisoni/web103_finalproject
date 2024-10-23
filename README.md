@@ -1,8 +1,8 @@
-# [your app name here]
+# Blogging Platform
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Gayatri Soni, Richard Aja, Winnie Liang
 
 🔗 Link to deployed app:
 
@@ -10,39 +10,52 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+This app is a full-stack blogging platform where users can create, read, update, and delete blogs. Users can like and comment on blogs, providing engagement for bloggers. The platform includes several additional features to enhance user experience, such as content scheduling, analytics, and user-friendly design.
 
 ### Inspiration
 
-[text goes here]
+The inspiration for this app came from the growing need for bloggers to connect more interactively with their audience and gain insights into their content’s performance. This platform aims to provide a seamless blogging experience with modern tools for both bloggers and readers.
 
 ## Tech Stack
 
-Frontend:
+Frontend: React.js, HTML, Tailwind CSS, JavaScript
 
-Backend:
+Backend: Express.js, Postgres SQL, Node.js
 
 ## Features
 
-### [Name of Feature 1]
+### 1. **Blog Creation, Editing, Deletion**
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+Users can easily create, update, and delete their blog posts. Bloggers have complete control over their content, allowing them to share, modify, or remove their posts as needed.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### 2. **Likes and Comments**
 
-[short description goes here]
+Readers can engage with content by liking posts and leaving comments. This feature helps bloggers gauge the popularity of their posts and encourages community interaction.
+
+[gif goes here]
+
+### 3. **Tags and Categories**
+
+Users can categorize their posts with tags, making it easier for readers to find blogs that match their interests. It also improves blog discoverability across the platform.
 
 [gif goes here]
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+
+### 4. **Analytics Dashboard**
+
+Bloggers can access a dashboard that shows insights such as the number of views, likes, and comments on their posts. This helps bloggers understand how their content is performing.
+
+### 5. **User Authentication**
+
+The platform features secure login and signup functionality, allowing users to manage their profiles and access content safely.
+
+### 7. **Responsive Design**
+
+The app is fully responsive, providing a seamless experience across devices from desktops to mobile phones, ensuring accessibility for all users.
+
 
 ## Installation Instructions
 
