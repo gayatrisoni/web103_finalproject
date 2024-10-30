@@ -14,7 +14,7 @@ This app is a full-stack blogging platform where users can create, read, update,
 
 ### Inspiration
 
-The inspiration for this app came from the growing need for bloggers to connect more interactively with their audience and gain insights into their content’s performance. This platform aims to provide a seamless blogging experience with modern tools for both bloggers and readers.
+The inspiration for this app came from the growing need for bloggers to connect more interactively with their audience and gain insights into their content’s performance. This platform will provide a seamless blogging experience with modern tools for both bloggers and readers.
 
 ## Tech Stack
 
@@ -26,7 +26,7 @@ Backend: Express.js, Postgres SQL, Node.js
 
 ### 1. **Blog Creation, Editing, Deletion**
 
-Users can easily create, update, and delete their blog posts. Bloggers have complete control over their content, allowing them to share, modify, or remove their posts as needed.
+Bloggers can easily create, update, and delete their blog posts. Bloggers have complete control over their content, allowing them to share, modify, or remove their posts as needed.
 
 [gif goes here]
 
@@ -38,7 +38,7 @@ Readers can engage with content by liking posts and leaving comments. This featu
 
 ### 3. **Tags and Categories**
 
-Users can categorize their posts with tags, making it easier for readers to find blogs that match their interests. It also improves blog discoverability across the platform.
+Bloggers can categorize their posts with tags, making it easier for readers to find blogs that match their interests. 
 
 [gif goes here]
 
